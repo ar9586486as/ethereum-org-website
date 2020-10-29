@@ -1,9 +1,9 @@
 ---
-title: Ethereum for Python Developers
-description: Learn how to develop for Ethereum using python-based projects and tooling
-lang: en
-sidebar: true
-incomplete: true
+Title: Ethereum for Python Developers
+Description: Learn how to develop for Ethereum using python-based projects and tooling
+Lang: Eng
+Sidebar: True
+Incomplete: True
 ---
 
 <div class="featured">Learn how to develop for Ethereum using Python-based projects and tooling</div>
@@ -26,7 +26,7 @@ Need a more basic primer first? Check out [ethereum.org/learn](/en/learn/) or [e
 - [An Introduction to Smart Contracts with Vyper](https://kauri.io/article/af913a853eaf4db88627b3ff9572b770/v1/an-introduction-to-smart-contracts-with-vyper)
 - [How to develop Ethereum contract using Python Flask?](https://medium.com/coinmonks/how-to-develop-ethereum-contract-using-python-flask-9758fe65976e)
 - [Intro to Web3.py · Ethereum For Python Developers](https://www.dappuniversity.com/articles/web3-py-intro)
-- [How to call a Smart Contract function using Python and web3.py](https://stackoverflow.com/questions/57580702/how-to-call-a-smart-contract-function-using-python-and-web3-py)
+- [How to call a Smart Contract function using Python and web3.py?](https://stackoverflow.com/questions/57580702/how-to-call-a-smart-contract-function-using-python-and-web3-py)
 
 ## Intermediate Articles {#intermediate-articles}
 
@@ -43,18 +43,18 @@ Need a more basic primer first? Check out [ethereum.org/learn](/en/learn/) or [e
 ## Python Projects and Tools {#python-projects-and-tools}
 
 - [Brownie](https://github.com/eth-brownie/brownie) - _Python framework for deploying, testing and interacting with Ethereum smart contracts_
-- [eth-utils](https://github.com/ethereum/eth-utils/) - _utility functions for working with Ethereum related codebases_
-- [py-evm](https://github.com/ethereum/py-evm) - _implementation of the Ethereum Virtual Machine_
+- [eth-utils](https://github.com/ethereum/eth-utils/) - _Utility functions for working with Ethereum related codebases_
+- [py-evm](https://github.com/ethereum/py-evm) - _Implementation of the Ethereum Virtual Machine_
 - [py-solc-x](https://pypi.org/project/py-solc-x/) - _Python wrapper around the solc solidity compiler with 0.5.x support_
 - [py-wasm](https://github.com/ethereum/py-wasm) - _Python implementation of the web assembly interpreter_
 - [pydevp2p](https://github.com/ethereum/pydevp2p) - _Implementation of the Ethereum P2P stack_
 - [pymaker](https://github.com/makerdao/pymaker) - _Python API for Maker contracts_
-- [Mamba](https://mamba.black) - _framework to write, compile, and deploy smart contracts written in Vyper language_
+- [Mamba](https://mamba.black) - _Framework to write, compile, and deploy smart contracts written in Vyper language_
 - [Trinity](https://github.com/ethereum/trinity) - _Ethereum Python client_
 - [Vyper](https://github.com/ethereum/vyper/) - _Pythonic Smart Contract Language for the EVM_
 - [Web3.py](https://github.com/ethereum/web3.py) - _Python library for interacting with Ethereum_
 
-Looking for more resources? Check out [ethereum.org/developers.](/en/developers/)
+Looking for more resources? Check out [Ethereum.org/developers.](/en/developers/)
 
 ## Python Community Contributors {#python-community-contributors}
 
